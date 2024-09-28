@@ -2,3 +2,4 @@ streamlit==1.25.0
 pandas
 langchain_community
 groq
+Pillow
