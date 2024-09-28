@@ -3,4 +3,4 @@ pandas
 langchain_community
 groq
 Pillow
-pyarrow==14.0.0
+bs4
