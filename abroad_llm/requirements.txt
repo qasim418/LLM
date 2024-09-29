@@ -4,4 +4,4 @@ langchain_community
 groq
 Pillow
 bs4
-googlesearch
+googlesearch-python
